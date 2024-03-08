@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Borja\\source\\repos\\MVCApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|c:\\users\\borja\\source\\repos\\mvcapp\\mvcapp\\mvcapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\mvcapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|c:\\users\\borja\\source\\repos\\mvcapp\\mvcapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|c:\\users\\borja\\source\\repos\\mvcapp\\mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|c:\\users\\borja\\source\\repos\\mvcapp\\mvcapp\\migrations\\20240302033512_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\migrations\\20240302033512_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|c:\\users\\borja\\source\\repos\\mvcapp\\mvcapp\\migrations\\20240302173426_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F62A1B-FA5B-4B07-ADFF-026E929CA47E}|MVCApp\\MVCApp.csproj|solutionrelative:mvcapp\\migrations\\20240302173426_rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MVCApp",
+              "DocumentMoniker": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\MVCApp.csproj",
+              "RelativeDocumentMoniker": "MVCApp\\MVCApp.csproj",
+              "ToolTip": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\MVCApp.csproj",
+              "RelativeToolTip": "MVCApp\\MVCApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T18:38:45.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\appsettings.json",
+              "RelativeToolTip": "MVCApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-02T18:30:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240302033512_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\Migrations\\20240302033512_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Migrations\\20240302033512_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\Migrations\\20240302033512_InitialCreate.cs",
+              "RelativeToolTip": "MVCApp\\Migrations\\20240302033512_InitialCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T18:30:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240302173426_Rating.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\Migrations\\20240302173426_Rating.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Migrations\\20240302173426_Rating.cs",
+              "ToolTip": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\Migrations\\20240302173426_Rating.cs",
+              "RelativeToolTip": "MVCApp\\Migrations\\20240302173426_Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T18:29:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MVCApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\Borja\\source\\repos\\MVCApp\\MVCApp\\Models\\Movie.cs",
+              "RelativeToolTip": "MVCApp\\Models\\Movie.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T18:22:03.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
